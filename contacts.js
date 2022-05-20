@@ -56,8 +56,4 @@ module.exports = {
   addContact,
   updateContactById,
 };
-// listContacts();
-// getContactById('6');
-// removeContact('5');
-// addContact('juli', 'email', 9884394394);
-// updateContactById('4', { name: 'juli', email: 'email', phone: '9884394394' });
+
